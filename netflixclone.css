@@ -10,7 +10,7 @@ body{
 }
 .container1 h1{
     font-size: 56px;
-    font-weight: 900px
+    font-weight: bold;
 }
 .head{
     padding-left: 30px;
